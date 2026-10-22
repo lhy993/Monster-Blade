@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f5f5cb07b767945a44899e509bbb8c, type: 3}
+  m_Name: SkeletonSword
+  m_EditorClassIdentifier: 
+  materials:
+  - item: {fileID: 11400000, guid: 7432dc3801c2ef840946f64a76a79755, type: 2}
+    amount: 5
+  - item: {fileID: 11400000, guid: 067b8f4b122e8264b9545b98438e52f4, type: 2}
+    amount: 10
+  resultItem: {fileID: 11400000, guid: 1d65288ee5e0dbc4db9445f78cddd088, type: 2}
+  resultAmount: 1
