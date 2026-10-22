@@ -3159,6 +3159,22 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 460151596}
+    - target: {fileID: 150336650924495289, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 150336650924495289, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 150336650924495289, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 150336650924495289, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: ecf84c93697e8f14c9cbdaf59f7ebc2a, type: 3}
     - target: {fileID: 160746311643913256, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
       propertyPath: m_Text
       value: "\uC2A4\uD15F"
@@ -3759,6 +3775,26 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: UI_Battle, Assembly-CSharp
       objectReference: {fileID: 0}
+    - target: {fileID: 3174272791684911593, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174272791684911593, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174272791684911593, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174272791684911593, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3174272791684911593, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: ecf84c93697e8f14c9cbdaf59f7ebc2a, type: 3}
     - target: {fileID: 3234085356501508272, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -3847,6 +3883,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3652347831920642397, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3652347831920642397, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3652347831920642397, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3652347831920642397, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: ecf84c93697e8f14c9cbdaf59f7ebc2a, type: 3}
     - target: {fileID: 4067655732575736900, guid: f1221075ae758b3478fd3e07b64f0d11, type: 3}
       propertyPath: m_Colors.m_DisabledColor.a
       value: 1

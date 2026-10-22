@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\Monster Blade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D79F68-D2E5-2E19-5A14-90FD4C454F9B}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\monster blade\\assets\\scripts\\ui\\ui_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D79F68-D2E5-2E19-5A14-90FD4C454F9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D79F68-D2E5-2E19-5A14-90FD4C454F9B}|Assembly-CSharp.csproj|c:\\users\\user\\documents\\github\\monster blade\\assets\\scripts\\mgr\\savemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D79F68-D2E5-2E19-5A14-90FD4C454F9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mgr\\savemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI_Battle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Monster Blade\\Assets\\Scripts\\UI\\UI_Battle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_Battle.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Monster Blade\\Assets\\Scripts\\UI\\UI_Battle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_Battle.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv1UAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:28:18.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveMgr.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\Monster Blade\\Assets\\Scripts\\Mgr\\SaveMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mgr\\SaveMgr.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\Monster Blade\\Assets\\Scripts\\Mgr\\SaveMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mgr\\SaveMgr.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAuwD4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T08:27:09.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -131,4 +131,9 @@ public class SaveMgr : MonoBehaviour
             Save();
         }
     }
+    private void OnApplicationQuit()
+    {
+        Save();
+        Debug.Log("게임 종료: 저장 요청");
+    }
 }

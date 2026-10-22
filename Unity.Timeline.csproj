@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{040B55C6-5F63-A1FD-BB66-F8CBB4A97509}</ProjectGuid>
+    <ProjectGuid>{D8275F61-A349-4AED-21D6-0CA3726D4639}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Timeline</AssemblyName>

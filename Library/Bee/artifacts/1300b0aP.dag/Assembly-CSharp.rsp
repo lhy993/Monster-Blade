@@ -343,7 +343,6 @@
 "Assets/Scripts/Item/Item.cs"
 "Assets/Scripts/Item/ItemDetailUI.cs"
 "Assets/Scripts/Item/ItemInstance.cs"
-"Assets/Scripts/Item/TestItemAdd.cs"
 "Assets/Scripts/ItemDatabase.cs"
 "Assets/Scripts/Mgr/BattleMgr.cs"
 "Assets/Scripts/Mgr/EquipmentMgr.cs"

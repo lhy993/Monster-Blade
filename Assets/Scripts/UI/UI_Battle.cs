@@ -83,6 +83,7 @@ public class    UI_Battle : MonoBehaviour
         inventory();
         TpGoblin();
         StatUpdate();
+        savedValue = 1;
     }
     public void Reset()
     {
@@ -243,7 +244,7 @@ public class    UI_Battle : MonoBehaviour
     public void MenuBtn()
     {
         Menu = !Menu;
-
+        StatUpdate();
         MENU.SetActive(Menu);
         Tp = false;
         TP.SetActive(false);
@@ -339,6 +340,7 @@ public class    UI_Battle : MonoBehaviour
     }
     public void StatUpdate()
     {
+
         HP_STAT.text = ("Hp : " + Shared.StatMgr.Hp_Stat);
         MP_STAT.text = ("Mp : " + Shared.StatMgr.Mp_Stat);
         DMG_STAT.text = ("Dmg : " + Shared.StatMgr.Dmg_Stat);
